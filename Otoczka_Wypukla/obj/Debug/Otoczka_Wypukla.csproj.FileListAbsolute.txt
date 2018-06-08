@@ -18,3 +18,13 @@ C:\Users\Piotrek\Studia\Geometria Obliczeniowa\Otoczka_wypukła\Otoczka_Wypukla\
 C:\Users\Piotrek\Studia\Geometria Obliczeniowa\Otoczka_wypukła\Otoczka_Wypukla\Otoczka_Wypukla\obj\Debug\Otoczka_Wypukla.csproj.CoreCompileInputs.cache
 C:\Users\Piotrek\Studia\Geometria Obliczeniowa\Otoczka_wypukła\Otoczka_Wypukla\Otoczka_Wypukla\obj\Debug\Otoczka_Wypukla.exe
 C:\Users\Piotrek\Studia\Geometria Obliczeniowa\Otoczka_wypukła\Otoczka_Wypukla\Otoczka_Wypukla\obj\Debug\Otoczka_Wypukla.pdb
+C:\Users\Piotrek\Studia\Geometria Obliczeniowa\Repo\Convex-hull\Otoczka_Wypukla\bin\Debug\Otoczka_Wypukla.exe.config
+C:\Users\Piotrek\Studia\Geometria Obliczeniowa\Repo\Convex-hull\Otoczka_Wypukla\bin\Debug\Otoczka_Wypukla.exe
+C:\Users\Piotrek\Studia\Geometria Obliczeniowa\Repo\Convex-hull\Otoczka_Wypukla\bin\Debug\Otoczka_Wypukla.pdb
+C:\Users\Piotrek\Studia\Geometria Obliczeniowa\Repo\Convex-hull\Otoczka_Wypukla\obj\Debug\Otoczka_Wypukla.csprojResolveAssemblyReference.cache
+C:\Users\Piotrek\Studia\Geometria Obliczeniowa\Repo\Convex-hull\Otoczka_Wypukla\obj\Debug\Otoczka_Wypukla.Form1.resources
+C:\Users\Piotrek\Studia\Geometria Obliczeniowa\Repo\Convex-hull\Otoczka_Wypukla\obj\Debug\Otoczka_Wypukla.Properties.Resources.resources
+C:\Users\Piotrek\Studia\Geometria Obliczeniowa\Repo\Convex-hull\Otoczka_Wypukla\obj\Debug\Otoczka_Wypukla.csproj.GenerateResource.Cache
+C:\Users\Piotrek\Studia\Geometria Obliczeniowa\Repo\Convex-hull\Otoczka_Wypukla\obj\Debug\Otoczka_Wypukla.csproj.CoreCompileInputs.cache
+C:\Users\Piotrek\Studia\Geometria Obliczeniowa\Repo\Convex-hull\Otoczka_Wypukla\obj\Debug\Otoczka_Wypukla.exe
+C:\Users\Piotrek\Studia\Geometria Obliczeniowa\Repo\Convex-hull\Otoczka_Wypukla\obj\Debug\Otoczka_Wypukla.pdb
