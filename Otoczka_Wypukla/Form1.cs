@@ -35,6 +35,7 @@ namespace Otoczka_Wypukla
         public Form1()
 
         {
+            
             InitializeComponent();
             
 
@@ -42,6 +43,19 @@ namespace Otoczka_Wypukla
 
         private void generate_button_Click(object sender, EventArgs e)
         {
+            //Check user input
+            int retNum;
+            if (string.IsNullOrEmpty(quantityTextBox.Text))
+            {
+                MessageBox.Show("Enter quantity of points", "Error");
+                return;
+            }
+            else if (!int.TryParse(quantityTextBox.Text, out retNum))
+            {
+                MessageBox.Show("Invalid input format", "Error");
+                return;
+            }
+
             //Create and clear drawing space
             Graphics = pictureBox1.CreateGraphics();
             Graphics.Clear(Color.White);
@@ -49,7 +63,7 @@ namespace Otoczka_Wypukla
             //Read quantity of random points
             try
             {
-                pointsQuantity = Int32.Parse(pointsQuantitiTextBox.Text);
+                pointsQuantity = Int32.Parse(quantityTextBox.Text);
             }
             catch (FormatException)
             {
